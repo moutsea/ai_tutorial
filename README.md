@@ -43,7 +43,7 @@ Ai领航员图文教程，超详细的人工智能从入门到进阶知识汇总
 
 
 
-![](https://moutsea-blog.oss-cn-hangzhou.aliyuncs.com/image-20230314183617715.png)
+<img src="https://moutsea-blog.oss-cn-hangzhou.aliyuncs.com/image-20230314183617715.png" style="zoom:50%;" />
 
 # 赞赏作者
 
