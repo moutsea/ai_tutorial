@@ -49,7 +49,4 @@ Ai领航员图文教程，超详细的人工智能从入门到进阶知识汇总
 
 创作不易，你的赞赏和认可，是我最大的更新动力：
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://moutsea-blog.oss-cn-hangzhou.aliyuncs.com/wx.png" style="zoom:33%;" /> | <img src="https://moutsea-blog.oss-cn-hangzhou.aliyuncs.com/zfb.png" style="zoom:25%;" /> |
-
+![](https://moutsea-blog.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BA%8C%E5%90%88%E4%B8%80%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
